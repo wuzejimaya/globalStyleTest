@@ -1,6 +1,6 @@
 import { createApp } from 'vue'
 import App from './App.vue'
 
-// import cssmsg from "./assets/global.css"
+// import "./assets/global-a.css"
 
 createApp(App).mount('#app')
