@@ -8,12 +8,15 @@
   },
   "dependencies": {
     "globby": "^12.0.1",
+    "shelljs": "^0.8.4",
     "vue": "^3.0.5"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^1.3.0",
     "@vue/compiler-sfc": "^3.0.5",
+    "less": "^4.1.1",
     "sass": "^1.38.1",
-    "vite": "^2.4.4"
+    "vite": "^2.4.4",
+    "vite-plugin-assets": "E:\\repo\\origin.js\\packages\\vite-plugin-assets"
   }
 }
